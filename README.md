@@ -7,6 +7,7 @@ I used [this website](https://www.alphr.com/pip-is-not-recognized-as-an-internal
 pip install plyer
 ```
 The notification message will disappear after 10 seconds. ' timeout = 10  #seconds '
+
 The notification message will be repeated after 15 seconds. ' time.sleep(15) #seconds '
 
 ![](/notificationBox.png)
